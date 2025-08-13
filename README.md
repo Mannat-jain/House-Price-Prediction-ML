@@ -55,3 +55,12 @@ The importance of feature selection & engineering
 Training and evaluating a gradient boosting model
 
 Visualizing and interpreting model insights
+____________________________________________________________________________________________________________
+
+🙋‍♀️ Built by:
+
+Mannat Jain
+
+Computer Science Student | AI & ML Enthusiast
+
+🔗 https://www.linkedin.com/in/mannatjain14/ | https://github.com/Mannat-jain
